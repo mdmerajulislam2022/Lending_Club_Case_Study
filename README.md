@@ -50,4 +50,4 @@ The aim of this EDA(Exploratory Data Analysis) is to find the driving factors be
 
 ## Acknowledgements 
  - Upgrad/IITB
- - Online Sources : Stackoverflow, Pandas , seaborn , plotly, numpy , matplotlib
+ - Online Sources : Pandas , seaborn , numpy , matplotlib
