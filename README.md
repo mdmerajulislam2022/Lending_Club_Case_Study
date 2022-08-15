@@ -48,10 +48,6 @@ The aim of this EDA(Exploratory Data Analysis) is to find the driving factors be
 	4. Stop – approving loans to people with prior bad record. Or at least stop approving high-value loans.
 	5. Start – charging higher interest rates for loans with dti greater than 20.
 
-
-#### Loan State Wise Distribution
-![alt text](git remote add origin https://github.com/mdmerajulislam2022/Lending_Club_Case_Study.git)
- 
 ## Acknowledgements 
  - Upgrad/IITB
  - Online Sources : Stackoverflow, Pandas , seaborn , plotly, numpy , matplotlib
